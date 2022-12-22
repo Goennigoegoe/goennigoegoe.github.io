@@ -7,6 +7,13 @@ h1 {
 p {
   color: white;
 }
+div.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  bottom: 0;
+  background-color: black;
+  border: 2px solid #FFFFFF;
+}
 div.relative {
   position: relative;
   width: 100;
