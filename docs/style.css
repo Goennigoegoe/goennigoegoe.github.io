@@ -8,10 +8,8 @@ p {
   color: white;
 }
 div.relative {
-  position: -webkit-sticky;
-  position: sticky;
-  /*top: 0;*/
-  bottom: 0;
-  background-color: black;
-  border: 0px solid #4CAF50;
+  position: relavite;
+  width: 200;
+  height: 200;
+  border: 0px solid #FFFFFF;
 }
