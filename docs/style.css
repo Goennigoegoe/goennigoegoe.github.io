@@ -25,5 +25,6 @@ div.relative {
   border: 0px solid #FFFFFF;
 }
 div.dev {
-  padding: 20px;
+  padding: 5px;
+  text-align: center;
 }
